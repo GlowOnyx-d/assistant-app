@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "AI Assistant",
+    "slug": "mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon-v3.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "image": "./assets/splash-icon-v3.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#111111"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "softwareKeyboardLayoutMode": "resize",
+      "adaptiveIcon": {
+        "backgroundColor": "#E6F4FE",
+        "foregroundImage": "./assets/android-icon-foreground-v3.png",
+        "backgroundImage": "./assets/android-icon-background-v3.png",
+        "monochromeImage": "./assets/android-icon-monochrome-v3.png"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon-v3.png"
+    }
+  }
+}
